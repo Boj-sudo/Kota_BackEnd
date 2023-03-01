@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Kota_BackEnd.BackEnd" CodeBehind="BackEnd.svc.cs" %>

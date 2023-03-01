@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Kota">
+  <DataContextMoniker Name="/KotaDataContext" />
+  <nestedChildShapes>
+    <classShape Id="ebcacbaf-916a-466f-aaba-3ea617585774" absoluteBounds="0.5, 1.375, 2, 2.3854903157552085">
+      <DataClassMoniker Name="/KotaDataContext/userTable" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c1e89234-6357-4bc1-b9cc-8986f1f28b37" absoluteBounds="0.515, 1.835, 1.9700000000000002, 1.8254903157552085" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="984a86b3-67d9-4fe4-bddc-d7f00469e12c" absoluteBounds="3, 1.375, 2, 2.5817590332031251">
+      <DataClassMoniker Name="/KotaDataContext/productTable" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6090f1c7-b7df-4466-bd29-a27a2b1843c2" absoluteBounds="3.015, 1.835, 1.9700000000000002, 2.021759033203125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6e98b790-dafb-43ab-9541-ed7487871465" absoluteBounds="5.5, 1.375, 2, 2.3854903157552085">
+      <DataClassMoniker Name="/KotaDataContext/cartTable" />
+      <nestedChildShapes>
+        <elementListCompartment Id="694aaceb-caef-4dfc-a072-80d6f957f572" absoluteBounds="5.515, 1.835, 1.9700000000000002, 1.8254903157552085" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
